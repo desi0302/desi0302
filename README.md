@@ -126,7 +126,7 @@ print(me.current_status())
   
   <tr>
   <td width="15%" align="center" valign="top">
-    <img src="images/concept.jpg" width="100px" alt="Cybersecurity Threat Detection"/>
+    <img src="images/lock.jpg" width="100px" alt="Cybersecurity Threat Detection"/>
   </td>
   <td width="85%" valign="top">
     <h3>Cybersecurity Threat Detection</h3>
