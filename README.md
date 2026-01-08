@@ -169,7 +169,7 @@ print(me.current_status())
   <tr>
     <td width="15%" align="center" valign="top">
       <br/>
-      <span style="font-size: 60px;">🚗</span>
+      <span style="font-size: 100px;">🚗</span>
       <br/><br/>
     </td>
     <td width="85%" valign="top">
