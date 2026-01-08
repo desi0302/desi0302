@@ -152,7 +152,7 @@ print(me.current_status())
   <td width="85%" valign="top">
     <h3>London Crime Analysis</h3>
     <p>
-      <a href="https://github.com/desi0302/london_crime" target="_blank">
+      <a href="https://github.com/desi0302/London-Crime" target="_blank">
         <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
       </a>
       <img src="https://img.shields.io/badge/Team-Collaboration-blue?style=flat-square" alt="Team"/>
