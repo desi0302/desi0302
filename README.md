@@ -168,9 +168,7 @@ print(me.current_status())
   
   <tr>
     <td width="15%" align="center" valign="top">
-      <br/>
-      <span style="font-size: 100px;">🚗</span>
-      <br/><br/>
+      <img src="images/red-car.png" width="100px" alt="Car Price Analysis"/>
     </td>
     <td width="85%" valign="top">
       <h3>Car Price Analysis - Team & Solo Projects</h3>
